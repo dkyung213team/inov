@@ -12,9 +12,9 @@
   <br>
   <a href="http://www.dkyung213.kr/">Official</a>
   ·
-  <a href="http://team.dkyung213.kr/?type=github&id=inov&path=issues/new?assignees=&labels=bug&template=bug_report.yml">Report bug</a>
+  <a href="http://team.dkyung213.kr/?type=github&id=inov&path=issues%2Fnew%3Fassignees%3D%26labels%3Dfeature%26template%3Dbug_report.yml">Report bug</a>
   ·
-  <a href="http://team.dkyung213.kr/?type=github&id=inov&path=issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
+  <a href="http://team.dkyung213.kr/?type=github&id=inov&path=issues%2Fnew%3Fassignees%3D%26labels%3Dfeature%26template%3Dfeature_request.yml">Request feature</a>
 </p>
 
 [![GitHub](https://img.shields.io/github/license/dkyung213team/inov)](http://team.dkyung213.kr/?type=github&id=inov&path=blob/main/LICENSE)
