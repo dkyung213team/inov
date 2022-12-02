@@ -64,7 +64,7 @@ Get started by including CSS and JavaScript via CDN without the need for any bui
      </head>
      <body>
        <h1>Hello, world!</h1>
-       <script src="https://cdn.jsdelivr.net/npm/inov@1.1.3/dist/js/inov.js"></script>
+       <script src="https://cdn.jsdelivr.net/npm/inov@1.1.4/dist/js/inov.js"></script>
      </body>
    </html>
    ```
@@ -75,7 +75,7 @@ As reference, here are our primary CDN links.
 
 | Description | URL                                                     |
 | ----------- | ------------------------------------------------------- |
-| JS          | https://cdn.jsdelivr.net/npm/inov@1.1.3/dist/js/inov.js |
+| JS          | https://cdn.jsdelivr.net/npm/inov@1.1.4/dist/js/inov.js |
 
 ## How to Use
 
